@@ -4,4 +4,4 @@ The daily record of learning Python from scratch.
 
 ## Log
 
-- **Day 1:** First program. Asks for your name and greets you.
+- **Day 1:** First program. Asks for your name and greets you. 11-16-2026
