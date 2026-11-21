@@ -9,3 +9,4 @@ The daily record of learning Python from scratch.
 - **Day 3:** Times table. Pick a number and it prints its times table from 1 to 10. 11-18-2026
 - **Day 4:** Coin flip. Flips a virtual coin and shows heads or tails. 11-19-2026
 - **Day 5:** Countdown. Counts down from 10 to liftoff, one second at a time. 11-20-2026
+- **Day 6:** Talking computer. Type something and the computer says it out loud. Needs: pip install pyttsx3. 11-21-2026
