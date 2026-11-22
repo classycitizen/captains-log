@@ -10,3 +10,4 @@ The daily record of learning Python from scratch.
 - **Day 4:** Coin flip. Flips a virtual coin and shows heads or tails. 11-19-2026
 - **Day 5:** Countdown. Counts down from 10 to liftoff, one second at a time. 11-20-2026
 - **Day 6:** Talking computer. Type something and the computer says it out loud. Needs: pip install pyttsx3. 11-21-2026
+- **Day 7:** Roll for a six. Rolls a die until it lands on 6 and counts the tries. 11-22-2026
