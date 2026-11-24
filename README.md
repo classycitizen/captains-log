@@ -17,3 +17,4 @@ The daily record of learning Python from scratch.
 ## Going higher
 
 - **Day 8:** 8-bit RAM. A tiny memory chip with 16 addresses you can write to and read from. 11-23-2026
+- **Day 9:** Adding machine. Uses a function to add two numbers, over and over. 11-24-2026
