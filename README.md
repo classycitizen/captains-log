@@ -2,7 +2,7 @@
 
 The daily record of learning Python from scratch.
 
-(NOTE! SOME OF THE FOLDERS ARE NOT IN ORDER!!)
+(Note, some of the folders are not in the correct place due to formatting.)
 
 ## Log
 
