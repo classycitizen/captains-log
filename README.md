@@ -21,3 +21,4 @@ The daily record of learning Python from scratch.
 - **Day 8:** 8-bit RAM. A tiny memory chip with 16 addresses you can write to and read from. 11-23-2026
 - **Day 9:** Adding machine. Uses a function to add two numbers, over and over. 11-24-2026
 - **Day 10:** Guess the number. Combines random, loops, a counter and a function into one game. 11-25-2026
+- **Day 11:** Dinner menu. Uses a dictionary to look up food prices. 11-26-2026
