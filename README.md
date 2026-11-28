@@ -22,3 +22,4 @@ The daily record of learning Python from scratch.
 - **Day 9:** Adding machine. Uses a function to add two numbers, over and over. 11-24-2026
 - **Day 10:** Guess the number. Combines random, loops, a counter and a function into one game. 11-25-2026
 - **Day 11:** Dinner menu. Uses a dictionary to look up food prices. 11-26-2026
+- **Day 12:** Notebook. Saves your notes to a file so they're still there next time. 11-27-2026
